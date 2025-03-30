@@ -1,4 +1,4 @@
-# Dictionary.cpp
+# Mythological Dictionary.cpp
 PROGRAMMING LOGIC AND DESIGN ACTIVITY LABORATORY NO.6
 
 Video
